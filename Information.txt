@@ -1,0 +1,5 @@
+The Attached script is a powershell query that will return the metadata of any instance name you enter.
+First we need to login and the script will give you all the details of the subscription that we have access.
+Enter the desired subscription by entering the name
+Enter the name of any resource that is there in the subscription and it will give all the details in Json format.
+The last line has the destination path where the output will be saved and can edited according to our path
